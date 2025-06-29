@@ -43,15 +43,6 @@ This project analyzes and visualizes public sentiment on Twitter using the [Twit
 
 ---
 
-## 📊 Visualizations
-
--   Sentiment distribution.png
--   Word clouds for each sentiment.png
--   Top entity sentiment bar plot.png
--   Sentiment heatmap per entity.png
-
----
-
 ## 🛠️ Libraries Used
 
 ```bash
